@@ -1,2 +1,0 @@
-# Baileys
-Copyright
